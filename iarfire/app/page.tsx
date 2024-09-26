@@ -33,10 +33,22 @@ export default function HeroPage() {
               <Avatar className="h-24 w-24 mr-6">
                 <AvatarImage src="/placeholder.svg?height=96&width=96" alt="Creator" />
                 <AvatarFallback>C</AvatarFallback>
-              </Avatar>
+              </Avatar> 
               <div>
-                <h3 className="text-2xl font-semibold">John Doe</h3>
-                <p className="text-muted-foreground">Founder of FEU Math Organization</p>
+                <h3 className="text-2xl font-semibold">Jhon Kheil Cymon T. Empeno</h3>
+                <p className="text-muted-foreground">Back-end Developer</p>
+              </div>
+            </CardContent>
+          </Card>
+          <Card>
+            <CardContent className="flex items-center p-6">
+              <Avatar className="h-24 w-24 mr-6">
+                <AvatarImage src="/placeholder.svg?height=96&width=96" alt="Creator" />
+                <AvatarFallback>C</AvatarFallback>
+              </Avatar> 
+              <div>
+                <h3 className="text-2xl font-semibold">Zion John Yousef T. Ramilo</h3>
+                <p className="text-muted-foreground">Front-end Developer</p>
               </div>
             </CardContent>
           </Card>
