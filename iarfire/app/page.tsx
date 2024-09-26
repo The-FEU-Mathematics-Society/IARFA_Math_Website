@@ -31,10 +31,9 @@ export default function HeroPage() {
           <Card>
             <CardContent className="flex items-center p-6">
               <Avatar className="h-24 w-24 mr-6">
-                <AvatarImage src="/placeholder.svg?height=96&width=96" alt="Creator" />
-                <AvatarFallback>C</AvatarFallback>
+                <AvatarImage src="D:\GITHUB\IARFA_Math_Website\iarfire\app\pictures\cymon.jpg" />
               </Avatar> 
-              <div>
+              <div> 
                 <h3 className="text-2xl font-semibold">Jhon Kheil Cymon T. Empeno</h3>
                 <p className="text-muted-foreground">Back-end Developer</p>
               </div>
@@ -43,8 +42,7 @@ export default function HeroPage() {
           <Card>
             <CardContent className="flex items-center p-6">
               <Avatar className="h-24 w-24 mr-6">
-                <AvatarImage src="/placeholder.svg?height=96&width=96" alt="Creator" />
-                <AvatarFallback>C</AvatarFallback>
+                <AvatarImage src="/pictures/zion.jpg?height=96&width=96"/>
               </Avatar> 
               <div>
                 <h3 className="text-2xl font-semibold">Zion John Yousef T. Ramilo</h3>
